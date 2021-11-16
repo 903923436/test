@@ -25,10 +25,7 @@ dsd
 sfsdfsdfas
 asfsdfsdfsdf
 
-<<<<<<< HEAD
 ss
 asfsdfsdfs
 asfsdfsdf
 asfsdf
-=======
->>>>>>> testmergy
